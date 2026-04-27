@@ -127,3 +127,6 @@ This project is for educational and demonstration purposes.
 
 👨‍💻 Author
 Sasank Hazarika B.Tech CSE | Full Stack Developer
+
+Deploy link === krishikrisha.netlify.app
+
